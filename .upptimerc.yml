@@ -5,8 +5,11 @@ repo: uptime # The name of this repository
 sites:
   - name: noteswiper.mydns.jp
     url: https://noteswiper.mydns.jp
+    maxResponseTime: 10000
+    delay: 10000
   - name: noteswiper.github.io
     url: https://noteswiper.github.io
+    delay: 12000
 
 assignees:
   - NoteSwiper
@@ -19,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "NoteSwiper's website upptime checker"
-  introMessage: "All of 'f5.si' domains are shown as down for unknown reason. Any 'f5.si' domains are accesible, but it's hosted with DDNS, may blocked by some router or firewalls."
+  introMessage: "All of 'mydns.jp' and 'f5.si' domains are shown as down for unknown reason. Any 'mydns.jp' and 'f5.si' domains are accesible, but it's hosted with DDNS, may blocked by some router or firewalls."
   navbar:
     - title: Status
       href: /
