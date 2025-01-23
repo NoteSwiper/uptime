@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/noteswiper.mydns.jp.ico",
     "slug": "noteswiper-mydns-jp",
     "status": "down",
-    "uptime": "29.23%",
-    "uptimeDay": "29.23%",
-    "uptimeWeek": "29.23%",
-    "uptimeMonth": "29.23%",
-    "uptimeYear": "29.23%",
-    "time": 1925,
-    "timeDay": 1925,
-    "timeWeek": 1925,
-    "timeMonth": 1925,
-    "timeYear": 1925,
+    "uptime": "0.55%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
+    "time": 1860,
+    "timeDay": 1860,
+    "timeWeek": 1860,
+    "timeMonth": 1860,
+    "timeYear": 1860,
     "dailyMinutesDown": {
-      "2025-01-22": 0
+      "2025-01-23": 5,
+      "2025-01-22": 6
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 223,
-    "timeWeek": 145,
-    "timeMonth": 118,
+    "timeDay": 178,
+    "timeWeek": 139,
+    "timeMonth": 117,
     "timeYear": 99,
     "dailyMinutesDown": {}
   }
