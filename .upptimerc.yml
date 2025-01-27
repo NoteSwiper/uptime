@@ -6,7 +6,7 @@ sites:
   - name: noteswiper.mydns.jp
     check: "tcp-ping"
     url: noteswiper.mydns.jp
-    port: 80
+    port: 443
     ipv6: true
     maxResponseTime: 10000
     delay: 10000
