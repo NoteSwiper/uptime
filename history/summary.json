@@ -4,54 +4,60 @@
     "url": "https://noteswiper.mydns.jp",
     "icon": "https://icons.duckduckgo.com/ip3/noteswiper.mydns.jp.ico",
     "slug": "website-my-dns",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 7710,
-    "timeDay": 7710,
+    "timeDay": 10031,
     "timeWeek": 7710,
     "timeMonth": 7710,
     "timeYear": 7710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 1
+    }
   },
   {
     "name": "API (MyDNS)",
     "url": "https://api.noteswiper.mydns.jp",
     "icon": "https://icons.duckduckgo.com/ip3/api.noteswiper.mydns.jp.ico",
     "slug": "api-my-dns",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1158,
-    "timeDay": 1158,
+    "timeDay": 1034,
     "timeWeek": 1158,
     "timeMonth": 1158,
     "timeYear": 1158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Website IPv4 (MyDNS)",
     "url": "https://noteswiper.mydns.jp",
     "icon": "https://icons.duckduckgo.com/ip3/noteswiper.mydns.jp.ico",
     "slug": "website-i-pv4-my-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 171,
+    "timeDay": 164,
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Website (GitHub Pages)",
@@ -65,7 +71,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 84,
+    "timeDay": 89,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
