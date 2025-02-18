@@ -6,20 +6,42 @@ sites:
   - name: Website (MyDNS)
     url: https://noteswiper.mydns.jp
     ipv6: true
+    slug: noteswiper-mydns
     maxResponseTime: 10000
     delay: 10000
+    expectedStatusCodes:
+      - 200
+      - 404
+      - 403
+      - 502
+      - 503
   - name: API (MyDNS)
     url: https://api.noteswiper.mydns.jp
     ipv6: true
     maxResponseTime: 10000
     delay: 10000
+    slug: api-noteswiper
+    expectedStatusCodes:
+      - 200
+      - 404
+      - 403
+      - 502
+      - 503
   - name: Website IPv4 (MyDNS)
     url: https://noteswiper.mydns.jp
     maxResponseTime: 10000
     delay: 10000
+    expectedStatusCodes:
+      - 200
+      - 404
+      - 403
+      - 502
+      - 503
+    slug: ipv4swiper
   - name: Website (GitHub Pages)
     url: https://noteswiper.github.io
     delay: 12000
+    slug: gitswiper
 
 assignees:
   - NoteSwiper
@@ -31,11 +53,12 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  theme: dark
   introTitle: "NoteSwiper's website upptime checker"
   introMessage: "All of 'mydns.jp' and 'f5.si' domains are shown as down for unknown reason. Any 'mydns.jp' and 'f5.si' domains are accesible, but it's hosted with DDNS, may blocked by some router or firewalls."
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
