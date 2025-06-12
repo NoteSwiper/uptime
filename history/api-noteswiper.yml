@@ -1,7 +1,7 @@
 url: https://api.noteswiper.mydns.jp
-status: up
+status: degraded
 code: 200
-responseTime: 1665
-lastUpdated: 2025-06-12T11:41:00.113Z
+responseTime: 13519
+lastUpdated: 2025-06-12T11:59:04.585Z
 startTime: 2025-02-18T05:46:01.852Z
 generator: Upptime <https://github.com/upptime/upptime>
